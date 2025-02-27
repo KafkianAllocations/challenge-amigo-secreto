@@ -3,7 +3,7 @@
 
 
 
-# ** Challenge amigo secreto **
+#  Challenge amigo secreto 
 
 
 
@@ -42,7 +42,7 @@ visual del proyecto :keyboard: .
 
 
 
-Este sitio web fue creado usando [GitHub Pages]([https://pages.github.com/](https://kafkianallocations.github.io/challenge-amigo-secreto/)).
+ [GitHub Pages]([https://pages.github.com/](https://kafkianallocations.github.io/challenge-amigo-secreto/)).
 
 
 
