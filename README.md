@@ -11,8 +11,8 @@
 
 El challenge consiste en crear una aplicación web de amigo secreto, la cuál de forma interactiva y dinámica debe sortear un "amigo secreto"
 a partir de una lista de "amigos" . En este challenge he puesto en práctica conceptos fundamentales de lógica de programación como variables, 
-condicionales, funciones, listas y lazos de repetición; estos conceptos constituyen la base de cualquier lenguaje de programación, 
-independientemente de su complejidad. También he utilizado funciones, condicionales, lazos de repetición y arrays, así también como el uso
+condicionales, funciones, listas, arrays y lazos de repetición; estos conceptos constituyen la base de cualquier lenguaje de programación, 
+independientemente de su complejidad. Finalmente en durante el desarrollo de este challenge he hecho uso de los conocimientos aprendiedos 
 de git y github.
 
 Aquí podemos ver un ejemplo de la lista de nombres en la app web.
@@ -35,8 +35,8 @@ https://github.com/user-attachments/assets/bd21cbe9-c584-40cb-b544-d4bc284e18c8
 
 
 > [!NOTE]
-> El objetivo principal de este desafío ha sido desarrollar habilidades en lógica de programación, por eso hemos proporcionado el HTML y CSS ya preparados.
-De esta manera, puedes enfocarte exclusivamente en construir la lógica del código JavaScript, aplicando conceptos clave como funciones, arrays, 
+> El objetivo principal de este desafío ha sido desarrollar habilidades en lógica de programación, por eso el curso ha proporcionado el HTML y CSS ya preparados.
+De esta manera, puede enfocarme exclusivamente en construir la lógica del código JavaScript, aplicando conceptos clave como funciones, arrays, 
 condicionales y variables. Esto te permitirá centrarte en resolver el problema y mejorar el razonamiento lógico, sin preocuparse por la estructura
 visual del proyecto :keyboard: .
 
